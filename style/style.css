@@ -1,0 +1,19 @@
+body {
+	 font-family: 'IBM Plex Serif', serif; 
+	 background-image: url("image/1.jpg");
+	 background-size: cover;
+     background-attachment: fixed;
+	}
+
+.photo {
+	height: 500px;
+    width: 50%;
+}
+.img-task-4 {
+	height: 60%;
+    width: 65%;
+}
+.img-task-3 {
+	height: 40%;
+    width: 45%;
+}
